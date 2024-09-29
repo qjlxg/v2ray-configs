@@ -86,6 +86,10 @@ def main():
         'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt',
         'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
         'https://github.com/coldwater-10/V2ray-Configs/raw/refs/heads/main/All_Configs_Sub.txt',
+        'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vmess',
+        'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vless',
+        'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/trojan',
+        'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/ss',
         'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
     ]
     dir_links = [
