@@ -1,3 +1,7 @@
+trojan://tg-dns68@162.159.153.172:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A511
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20111
+trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@pqawsjp4.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.27.7.142%3A2053
 trojan://telegram-id-privatevpns@3.76.241.33:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2092ms
 trojan://8cdf33dd-0a05-419e-b9d6-435eb5cb3e07@fsctw.1234567890spcloud.com:20001?type=tcp&sni=ceshii.1234567890spcloud.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10804?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|@Zyw_Channel
@@ -3674,7 +3678,3 @@ trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.9
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@us1.jjzgy.live:443?security=tls&sni=us1.jjzgy.live&allowInsecure=1&type=tcp#%E7%BE%8E%E5%9B%BD_0929843
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#%E7%BE%8E%E5%9B%BD_0929844
 trojan://t-me-DarkVPNpro@iranserver.com:443?path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D1024&security=tls&alpn=h2,http/1.1&host=spiderman-lotus3thewildjunezero.sonicstar.buzz&fp=safari&type=ws&sni=kaathal-thecorelastresort.sonicstar.buzz#%E7%BE%8E%E5%9B%BD_0929852
-trojan://DaYaplOl83F0CeS43DEZ692Cxx3DqFyaewNAKCujAIn5ZypgSRT3R7XYBOcz8S@citylife.freetrade.link:18331?type=tcp&security=tls&sni=citylife.freetrade.link#%E7%BE%8E%E5%9B%BD_0929877
-trojan://Jncm1NRGbZ@172.67.175.243:8443?type=tcp&security=tls&sni=frankfoortvip.followprovider.ir#%E7%BE%8E%E5%9B%BD_0929884
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?type=tcp&security=tls&sni=mailbox.CPIFOrpersiA.UK#%E7%BE%8E%E5%9B%BD_0929885
-trojan://auto@172.66.47.125:443?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%E7%BE%8E%E5%9B%BD_0929886
