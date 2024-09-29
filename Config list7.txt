@@ -1,3 +1,5 @@
+trojan://871f6f44-ec8a-4d90-bb4e-e72953a96d91@378c880ae853dcc8cc1c5626c7048238.v1.cac.node-is.green:44311?allowInsecure=1&peer=tw1.speedtest.net&sni=tw1.speedtest.net#%E9%A6%99%E6%B8%AF_0929210
+trojan://289f0971-147a-47c9-bc53-1c626c650404@22bd8abb561e1d4b9d6049b28cf3055f.v1.cac.node-is.green:47964?allowInsecure=1&peer=hk1.speedtest.net&sni=hk1.speedtest.net#%E9%A6%99%E6%B8%AF_0929211
 trojan://8b76664a-a9d0-45d8-b3c2-8a966b1a1ec7@de5c29ff6a864f2135a381e86e1e6d33.v1.cac.node-is.green:42552#%E9%A6%99%E6%B8%AF_0929212
 trojan://871f6f44-ec8a-4d90-bb4e-e72953a96d91@79928504fa5cb25bf03d5fd93bff5e55.v1.cac.node-is.green:46228#%E9%A6%99%E6%B8%AF_0929213
 trojan://871f6f44-ec8a-4d90-bb4e-e72953a96d91@3c8ebda8e3b00d54f26bea3ece0eb8bc.v1.cac.node-is.green:40446#%E9%A6%99%E6%B8%AF_0929214
@@ -3676,5 +3678,3 @@ vless://117d1095-b114-4a5a-acd3-0f5cab944706@speedtest.net:80?path=/Telegram-ipV
 vless://117d1095-b114-4a5a-acd3-0f5cab944706@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=80&security=none&encryption=none&host=barkatc18.ir&type=ws#vpnWedBaz | ALL(ژانگولر)
 vless://117d1095-b114-4a5a-acd3-0f5cab944706@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=80&security=none&encryption=none&host=barkatc18.ir&type=ws&sni=speedtest.net#@FILTERK0SH+|+ALL+NET🌐
 vless://117d1095-b114-4a5a-acd3-0f5cab944706@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=80&security=none&encryption=none&host=barkatc18.ir&type=ws&sni=speedtest.net#WS-Config
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=meti-u9d.pages.dev&fp=chrome&type=ws&sni=meti-u9d.pages.dev#Moftinet
-vless://119e2518-a885-4e0c-8b11-6a5d7f7ff00d@104.19.57.37:443?path=/?ed=2048&security=tls&encryption=none&host=telegram-vpnhttpinjectorfree-30.veleh14860.workers.dev&type=ws&sni=telegram-vpnhttpinjectorfree-30.veleh14860.workers.dev#@v2ray313+کانالمون+👀

@@ -1,3 +1,5 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKaoUBEZWFtTmV0X1Byb3h5IPCflLvwn4eo8J+HpkNBIPCflLrwn4e68J+HuFVTIOKYkU1UTiIsDQogICJhZGQiOiAiMTA0LjIxLjI0LjE3MCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiMzIxZmQ1ZC1lNmVjLTQyOTMtYTY0NC0xNjRlMzg4NWY1MmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRlbmMzNi54dG9vbHRlY2guY2ZkIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
+•янЉЩ^™лZќ©ћѕ'°¦Љнr‰нz{
 ss://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.102.154:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;type=ws#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#telegram
 trojan://64559da0-f51c-11ee-8db0-1239d0255272@104.21.41.21:443/?type=ws&host=fr1.test3.net&path=%2Fhowdy&security=tls&sni=fr1.test3.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0078
@@ -3676,5 +3678,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@204.110.220.1:80?security=tls&sni=h
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@193.108.117.75:8080#4FreeIran-1445
 vmess://eyJhZGQiOiIxNzIuNjcuMTUwLjgyIiwicG9ydCI6IjQ0MyIsImlkIjoiZTM1MDI2ZGEtZTk4NS00OWNhLWI0M2ItMjc2MDYyYTUzNWE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMDkyODQ2OCIsImhvc3QiOiIiLCJwYXRoIjoiL3BOVjdpelJGTE84ckdDa0lINjZrTUZQYSIsInRscyI6InRydWUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.126.31:989#Aloha%20Serbia%20%F0%9F%87%B7%F0%9F%87%B8%20Belgrade
-trojan://telegram-id-directvpn@18.197.193.197:22222?security=tls&sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD_121320002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@172.245.218.162:801#%F0%9F%87%BA%F0%9F%87%B8US-172.245.218.162-7575
