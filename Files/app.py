@@ -59,6 +59,7 @@ def decode_dir_links(dir_links):
 
 def main():
     links = [
+'https://raw.githubusercontent.com/thuhollow2/myconfig/refs/heads/main/config.yaml',
 'http://141.147.161.50:12580/clash/proxies',
 'http://150.230.195.209:12580/clash/proxies',
 'http://155.248.172.106:12580/clash/proxies',
