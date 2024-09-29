@@ -134,6 +134,22 @@ def main():
 'https://github.com/qjlxg/Ray/raw/refs/heads/main/config.txt',
 'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt',
 'https://github.com/coldwater-10/V2ray-Configs/raw/refs/heads/main/All_Configs_Sub.txt',
+    "https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt",
+    "https://raw.githubusercontent.com/hkpc/V2ray-Configs/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt",
+    "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/wenode.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/merged.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/kkzui.txt",
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt",
+    "https://raw.githubusercontent.com/HakurouKen/free-node/main/public",
+    "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
+    "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/asakura42/vss/master/output.txt",
+    "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
     ]
     dir_links = [
