@@ -99,7 +99,6 @@ def main():
 'https://proxypool.link/vmess/sub',
 'https://proxypool1999.banyunxiaoxi.icu/clash/proxies',
 'https://pxypool.131433.xyz/clash/proxies',
-'https://rvorch.treze.cc/clash/proxies',
 'https://shadowmere.akiel.dev/api/b64sub',
 'https://sub.5112233.xyz/auto',
 'https://sub.reajason.eu.org/clash.yaml',
