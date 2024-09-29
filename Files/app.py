@@ -72,7 +72,8 @@ def main():
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
         'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
-        'https://raw.githubusercontent.com/ts-sf/fly/main/v2'
+        'https://raw.githubusercontent.com/ts-sf/fly/main/v2',
+        'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
         'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
         'https://github.com/qjlxg/ss/raw/refs/heads/master/list.txt',
         'https://github.com/qjlxg/Sub2/raw/refs/heads/main/sub/share/all',
@@ -84,7 +85,7 @@ def main():
         'https://github.com/qjlxg/Ray/raw/refs/heads/main/config.txt',
         'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt',
         'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
-        'https://github.com/coldwater-10/V2ray-Configs/raw/refs/heads/main/All_Configs_Sub.txt'
+        'https://github.com/coldwater-10/V2ray-Configs/raw/refs/heads/main/All_Configs_Sub.txt',
         'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
     ]
     dir_links = [
@@ -92,10 +93,10 @@ def main():
         'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
-        'https://mrpooya.top/api/lena.php'
-        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt'
-        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt'
-        'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
+        'https://mrpooya.top/api/lena.php',
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt',
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt',
+        'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt',
         'https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt',
         'https://github.com/qjlxg/Sub2/raw/refs/heads/main/sub/share/tr',
         'https://github.com/qjlxg/Sub2/raw/refs/heads/main/sub/share/ss',
