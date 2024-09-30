@@ -59,6 +59,11 @@ def decode_dir_links(dir_links):
 
 def main():
     links = [
+"https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/mixed_iran.txt",
+"https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/ss_iran.txt",
+"https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/trojan_iran.txt",
+"https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/vless_iran.txt",
+"https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/vmess_iran.txt",
 'https://raw.githubusercontent.com/thuhollow2/myconfig/refs/heads/main/config.yaml',
 'http://141.147.161.50:12580/clash/proxies',
 'http://150.230.195.209:12580/clash/proxies',
