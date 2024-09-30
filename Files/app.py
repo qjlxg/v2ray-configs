@@ -171,13 +171,13 @@ def main():
 'https://sub.pmsub.me/base64',
 'https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml',
 'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt',
-'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'，
+'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
 'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config'
 
     ]
     dir_links = [
-'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix'    
-       ]
+'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
+    ]
 
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
