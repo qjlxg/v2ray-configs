@@ -89,14 +89,12 @@ def main():
 'https://github.com/qjlxg/py/raw/refs/heads/main/data/clash.yaml',
 'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
 'https://github.com/qjlxg/hy2/raw/refs/heads/main/configtg.txt',
-'https://github.com/qjlxg/Ray/raw/refs/heads/main/config.txt',
-'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt'
+'https://github.com/qjlxg/Ray/raw/refs/heads/main/config.txt'
+
 
     ]
     dir_links = [
-'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt',
-'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
-'https://raw.githubusercontent.com/qjlxg/ss/refs/heads/master/list_raw.txt'
+'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt'
     ]
 
     decoded_links = decode_links(links)
