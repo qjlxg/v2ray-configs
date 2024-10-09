@@ -77,7 +77,6 @@ def main():
 'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vless',
 'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/trojan',
 'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/ss',
-'https://raw.githubusercontent.com/qjlxg/ss/refs/heads/master/list_raw.txt',
 'https://github.com/qjlxg/aggregator/raw/refs/heads/main/data/clash.yaml',
 'https://github.com/qjlxg/proxy-minging/raw/refs/heads/main/v2ray.txt',
 'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
