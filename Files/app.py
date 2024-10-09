@@ -73,14 +73,7 @@ def main():
 'https://github.com/qjlxg/genode/raw/refs/heads/main/public/tuic.txt',
 'https://github.com/qjlxg/genode/raw/refs/heads/main/public/vless.txt',
 'https://github.com/qjlxg/genode/raw/refs/heads/main/public/vmess.txt',
-'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vmess',
-'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vless',
-'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/trojan',
-'https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/ss',
-'https://github.com/qjlxg/aggregator/raw/refs/heads/main/data/clash.yaml',
-'https://github.com/qjlxg/proxy-minging/raw/refs/heads/main/v2ray.txt',
-'https://github.com/qjlxg/genode/raw/refs/heads/main/public/all.txt',
-'https://github.com/qjlxg/Ray/raw/refs/heads/main/config.txt'
+
 
 
 
