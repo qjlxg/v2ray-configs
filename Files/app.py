@@ -80,6 +80,7 @@ def main():
     ]
     dir_links = [
 'https://github.com/qjlxg/py/raw/refs/heads/main/data/v2ray.txt',
+'https://github.com/qjlxg/ss/raw/refs/heads/master/list_raw.txt',
 'https://github.com/qjlxg/proxies-2/raw/refs/heads/master/sub/share/available'
     ]
 
